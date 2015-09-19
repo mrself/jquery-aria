@@ -1,6 +1,6 @@
 {
   "name": "jquery-aria",
-  "version": "1.0.0",
+  "version": "3.0.0",
   "description": "[![Code Climate](https://codeclimate.com/github/orgsync/jquery-aria.png)](https://codeclimate.com/github/orgsync/jquery-aria)",
   "main": "index.js",
   "scripts": {
